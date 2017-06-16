@@ -1,0 +1,21 @@
+Program State: 
+Program ID: 10
+ExeStack: 
+wH(a,30)
+ (v = 32; (print(v); print(rH(a))))
+ 
+
+SymTable: 
+a->1
+v->10
+
+
+Out: 
+10
+22
+
+
+Heap: 
+1->22
+
+
